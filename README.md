@@ -1,63 +1,79 @@
 # Kevin Worley
 
-### Technical Audio Engineer | Automotive Audio · Acoustics · Psychoacoustics · DSP · Validation
+### DSP & Audio Engineer | Signal Processing · Acoustics/NVH · Measurement
 
-I am an M.S.-trained technical audio engineer developing human-centered audio systems through **measurement, critical listening, signal processing, software, and disciplined engineering documentation**.
+M.S.-trained audio engineer focused on **DSP, acoustics/NVH, signal flow, measurement, and human perception**. I develop software and engineering studies that connect signal-processing behavior with measurable acoustic results and listener experience.
 
-My primary direction is automotive audio—particularly acoustics, test and validation, system integration, and applied psychoacoustic engineering. I am building toward the cross-functional space between what an audio system measures, how it is implemented, and what occupants actually hear.
+My current direction is automotive and active-audio engineering, with continued development toward **spatial audio, adaptive DSP, active NVH, and applied psychoacoustic algorithm research**.
 
-## Engineering profile
+[LinkedIn](https://www.linkedin.com/in/kevin-w-7265b71ba/) · [Complete Engineering Portfolio](Portfolio/)
 
-- **Measurement and validation:** Audio Precision testing, REW, frequency response, SNR, THD+N, impulse-response analysis, and repeatable technical reporting
-- **DSP and software:** Python, MATLAB, FFT analysis, filtering, convolution, delay, nonlinear processing, visualization, and audio-tool development
-- **Perception and acoustics:** psychoacoustics, critical listening, subjective evaluation, room acoustics, spatial audio, and immersive reproduction
-- **Automotive development:** system requirements, cabin-acoustics reasoning, tuning diagnosis, vehicle-noise analysis, integration planning, and verification design
+## Technical profile
 
-## Selected work: automotive tuning, DSP, and validation
-
-For a focused view of my progress toward automotive-audio tuning and DSP engineering, start here:
-
-| Selected work | What it shows |
+| Area | Capability |
 |---|---|
-| [**Automotive Tuning & Diagnostic Judgment**](Portfolio/01-Automotive-Audio-Systems/Projects/Automotive-Audio-Tuning-Diagnostic-Judgment/) | Developing fault-diagnosis reasoning that connects audible symptoms with plausible system causes, discriminating measurements, corrective actions, and verification. |
-| [**Technical Listening Trainer**](https://github.com/kevinworleymusic-afk/technical-listening-trainer) | Functional Python software for controlled blind listening, DSP processing, exercise randomization, scoring, and session analysis. |
-| [**MATLAB Audio DSP Project Collection**](Portfolio/04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/MATLAB-Projects/) | Implemented work involving filtering, convolution, delay, nonlinear processing, clipping, harmonics, THD, impulse responses, and mid-side processing. |
-| [**Measurement & Validation Studies**](Portfolio/03-Acoustics-Measurement-and-Validation/Projects/) | Completed and developing studies demonstrating test design, Audio Precision and REW workflows, measurement interpretation, limitations, and reporting. |
+| **DSP and software** | Python, NumPy, SciPy, Matplotlib; academic MATLAB DSP coding; FFT analysis, FIR/IIR filtering, convolution, delay, nonlinear processing, THD analysis, visualization, and audio-tool development |
+| **Measurement and acoustics** | Audio Precision SYS 2522, REW, oscilloscope use, frequency response, SNR, THD+N, phase, crosstalk, calibration, signal flow, impulse-response analysis, and technical reporting |
+| **Audio systems and perception** | Psychoacoustics, critical listening, binaural/HATS laboratory work, Dolby Atmos 7.1.4 workflows, electroacoustics, and diagnostic evaluation |
+| **Developing capability** | C/C++ fundamentals, DSP equations and mathematical notation, adaptive filtering, acoustic NVH analysis, embedded-audio concepts, and translation of algorithms into code |
 
-These selections show current evidence and continuing development; they do not imply completed professional vehicle-tuning work.
+## Selected DSP and engineering work
 
-## Explore the complete portfolio
-
-The [**Complete Engineering Portfolio Index**](Portfolio/) organizes finished evidence, active projects, technical studies, software repositories, and development plans.
-
-| Portfolio area | Focus |
+| Project | Engineering evidence |
 |---|---|
-| [Automotive Audio Systems](Portfolio/01-Automotive-Audio-Systems/) | Vehicle-audio architecture, cabin acoustics, tuning, integration, and validation |
-| [Psychoacoustics & Critical Listening](Portfolio/02-Psychoacoustics-and-Critical-Listening/) | Perception, subjective evaluation, listening research, and diagnostic training |
-| [Acoustics, Measurement & Validation](Portfolio/03-Acoustics-Measurement-and-Validation/) | Laboratory measurement, room and environmental acoustics, analysis, and test discipline |
-| [DSP, Electronics & Audio Software](Portfolio/04-DSP-Electronics-and-Audio-Software/) | Python, MATLAB, signal processing, electronics, analysis tools, and embedded-audio preparation |
-| [Foundation & Experience](Portfolio/05-Foundation-and-Experience/) | Education, professional audio work, technical communication, and supporting evidence |
+| [**Technical Listening Trainer**](https://github.com/kevinworleymusic-afk/technical-listening-trainer) | Functional Python prototype using parametric EQ, interchannel level differences, IIR biquads, response checks, randomized trials, scoring, and CSV export to connect DSP changes with perception |
+| [**Audio File Report**](https://github.com/kevinworleymusic-afk/audio-file-report) | Python WAV-analysis software with metadata reporting, stereo FFT plots, input validation, diagnostic logging, and repeatable output |
+| [**MATLAB Audio DSP Projects**](Portfolio/04-DSP-Electronics-and-Audio-Software/Projects/Coding-and-Audio-Software/MATLAB-Projects/) | Academic implementations involving filtering, convolution, synchronized delay, distortion, clipping, harmonics, THD, impulse-response analysis, and mid-side processing |
+| [**Engineering Trainer**](https://github.com/kevinworleymusic-afk/engineering_trainer_flashcards) | Configurable Python application with JSON question sets, topic selection, randomized sessions, input validation, multiple question formats, and scoring |
+| [**Audio Measurement & Validation**](Portfolio/03-Acoustics-Measurement-and-Validation/) | Audio Precision and REW studies covering frequency response, SNR, THD+N, phase, crosstalk, room response, decay, reflections, limitations, and reporting |
+| [**Automotive Audio Development**](Portfolio/01-Automotive-Audio-Systems/) | Ongoing systems work connecting cabin acoustics, NVH, psychoacoustics, transducers, DSP, diagnostic listening, integration, and validation |
 
-## Current development
+## Professional experience
 
-- Expanding the listening trainer toward diagnostic faults, spatial errors, and vehicle listening conditions
-- Documenting LTspice electrical and audio-electronics experiments
-- Building a Python vehicle-NVH analysis toolkit
-- Developing transducer, DSP, embedded-audio, simulation, NVH, and psychoacoustic capability through a seven-module curriculum
-- Advancing a simulated RAV4-class audio-system architecture with explicit requirements and verification plans
+### Ocean Way Nashville — Student Staff Engineer  
+*January 2024 – May 2024*
 
-Active and conceptual work is labeled separately from completed evidence. Nothing here implies production embedded experience, professional vehicle tuning, or validated in-vehicle implementation where that work has not yet been performed.
+- Supported microphone deployment, signal routing, equipment checks, and troubleshooting for commercial recording sessions, including work associated with *EA Sports College Football 25*.
+- Worked within complex studio signal paths and professional engineering handoffs where preparation, communication, and reliability were essential.
+- Completed independent study involving Dolby Atmos 7.1.4 recording, monitoring, routing, and spatial-reproduction workflows in Studio A.
 
-## Background
+### Starstruck Entertainment — Studio Engineer Intern  
+*August 2023 – July 2024*
 
-- **M.S., Audio Engineering Technology — Belmont University**
-- **B.M., Music Education and B.M., Music Performance (Jazz) — Kennesaw State University**
-- **Student Staff Engineer — Ocean Way Nashville**
-- **Studio Intern — Starstruck Entertainment**
-- **Music Educator — Cobb County School District**
+- Assisted signal-path setup, microphone routing, DAW workflows, and recording-session preparation.
+- Prepared equipment and audio assets for reliable studio operations and clear engineering handoffs.
+- Developed practical experience with troubleshooting, technical organization, and professional production workflows.
 
-My music and teaching background supports—not substitutes for—the engineering work through trained listening, pattern recognition, communication, documentation, and iterative diagnosis.
+### Cobb County School District — Teaching and Clinical Experience  
+*2021 – 2022*
+
+- Coordinated rehearsals, managed time and competing priorities, led student groups, and communicated technical and musical expectations.
+- Developed structured diagnosis, rapid feedback, documentation, and cross-functional communication skills applicable to engineering teams.
+- Applied planning and leadership methods learned under experienced cooperating teachers managing large band programs.
+
+## Education
+
+### Belmont University  
+**M.S., Audio Engineering Technology — 2024**
+
+- Psychoacoustics and hearing science; critical listening and perceptual evaluation
+- Independent Audio Precision study comparing a Studer A80 tape machine with an A800 plug-in using frequency response, SNR, and THD+N
+- Independent Dolby Atmos 7.1.4 recording, monitoring, and routing study at Ocean Way Nashville
+- Independent study in audio circuits, microphone electroacoustics, and oscilloscope use
+
+### Kennesaw State University  
+**B.M., Music Education; B.M., Music Performance (Jazz) — 2021**
+
+## Current engineering development
+
+- Building adaptive-filtering and system-identification experiments in Python
+- Developing an acoustic-NVH analysis toolkit using waveform, FFT, and spectrogram workflows
+- Extending the Technical Listening Trainer toward diagnostic, spatial, and NVH-oriented evaluation
+- Studying C/C++ as a path from algorithm concepts and Python prototypes toward real-time audio implementation
+- Developing deeper capability in DSP mathematics, active NVH, spatial audio, psychoacoustics, transducers, and embedded-audio systems
+
+Current study and prototypes are labeled separately from completed engineering evidence. This profile does not claim production embedded-software experience, professional vehicle tuning, or validated in-vehicle algorithm deployment.
 
 ---
 
-**[Open the complete engineering portfolio →](Portfolio/)**
+**[Explore the complete engineering portfolio →](Portfolio/)**
