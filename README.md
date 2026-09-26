@@ -38,7 +38,7 @@ My current direction is automotive and active-audio engineering, with continued 
 ## Professional experience
 
 ### Part-Time Teaching, Audio Work & Independent Engineering Development  
-*2024 – Present*
+*Atlanta, GA · August 2024 – Present*
 
 - Continued part-time teaching and audio-related work while pursuing a focused transition into DSP and automotive-audio engineering.
 - Used teaching work to continue honing critical-listening, communication, and rapid diagnostic skills while remaining engaged with the professional audio and music community.
