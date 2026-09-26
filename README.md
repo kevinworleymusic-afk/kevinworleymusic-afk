@@ -37,6 +37,14 @@ My current direction is automotive and active-audio engineering, with continued 
 
 ## Professional experience
 
+### Part-Time Teaching, Audio Work & Independent Engineering Development  
+*2024 – Present*
+
+- Continued part-time teaching and audio-related work while pursuing a focused transition into DSP and automotive-audio engineering.
+- Used teaching work to continue honing critical-listening, communication, and rapid diagnostic skills while remaining engaged with the professional audio and music community.
+- Developed Python audio tools and DSP projects involving FFT analysis, filtering, convolution, IIR processing, adaptive filtering, system identification, and diagnostic listening.
+- Expanded capability in audio measurement, acoustics/NVH, psychoacoustics, MATLAB, and C/C++ fundamentals through structured study and documented engineering work.
+
 ### Ocean Way Nashville — Student Staff Engineer  
 *January 2024 – May 2024*
 
