@@ -8,6 +8,13 @@ My current direction is automotive and active-audio engineering, with continued 
 
 [LinkedIn](https://www.linkedin.com/in/kevin-w-7265b71ba/) · [Complete Engineering Portfolio](Portfolio/)
 
+## DSP engineering focus
+
+- **Implemented DSP work:** FFT analysis, FIR/IIR filtering, biquad EQ, convolution, delay, nonlinear processing, distortion/THD analysis, impulse-response analysis, and audio visualization
+- **Current algorithm development:** LMS adaptive filtering and system identification in Python, including convergence, coefficient tracking, step-size behavior, and acoustic/NVH-oriented applications
+- **Software path:** Python/NumPy/SciPy prototyping and academic MATLAB DSP coding, with C/C++ development aimed at real-time audio implementation
+- **Engineering connection:** measurement, critical listening, psychoacoustics, and signal-flow experience used to interpret and validate algorithm behavior
+
 ## Technical profile
 
 | Area | Capability |
